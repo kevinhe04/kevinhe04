@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hi, I'm Kevin! 🌸
+# Hi, I'm Kevin!
 
 ### Developer • Content Creator • Funny Guy Overall
 
