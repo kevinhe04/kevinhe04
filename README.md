@@ -2,7 +2,7 @@
 
 # Hi, I'm Kevin!
 
-### Developer • Content Creator • Funny Guy Overall
+### Developer • Content Creator
 
 *Building impactful software solutions that make people's lives easier*
 
