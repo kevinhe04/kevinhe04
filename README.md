@@ -2,9 +2,7 @@
 
 # Hi, I'm Kevin!
 
-### Developer • Content Creator
-
-*Building impactful software solutions that make people's lives easier*
+### U3 McGill Software Engineering Co-op • Content Creator
 
 Currently studying **Software Engineering** at **McGill University**
 
