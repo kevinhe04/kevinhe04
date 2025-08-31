@@ -4,8 +4,6 @@
 
 ### U3 McGill Software Engineering Co-op • Content Creator
 
-Currently studying **Software Engineering** at **McGill University**
-
 </div>
 
 ## 🚀 About Me
