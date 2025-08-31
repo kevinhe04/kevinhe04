@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kevin!
+# Hi, I'm Kevin
 
 ### U3 McGill Software Engineering Co-op • Content Creator
 
