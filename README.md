@@ -1,13 +1,8 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20He&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38" />
-
-### 🎓 Software Engineering @ McGill University • 🎬 Content Creator
-
 <br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+there!" alt="Typing SVG" />
-
 <br>
 
 </div>
