@@ -28,7 +28,7 @@
 
 <br>
 
-## 🏆 Check Out My Proudest Projects!
+## My Proudest Projects
 
 <div align="center">
 
