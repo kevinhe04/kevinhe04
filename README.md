@@ -7,23 +7,6 @@
 
 </div>
 
-## 👋 About Me
-
-**Developer** • I like creating cool things that can leave an impact on the world
-**Creator** • I inspire and entertain audiences across multiple platforms 
-
-<br>
-
-## 🚀 What I'm Focused On
-
-💻  Building impactful software solutions
-🎬  Creating content that inspires and educates  
-🌍  Using technology to make a positive difference
-📚  Continuous learning and growth
-
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
