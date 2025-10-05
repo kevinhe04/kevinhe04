@@ -36,7 +36,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [Project Name 1](your-repo-link)
+### 🚀 [Stacy](your-repo-link)
 
 ![Project 1](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,7 +53,7 @@ A brief description of what this project does and why you're proud of it. Highli
 </td>
 <td width="50%" valign="top">
 
-### 📱 [Project Name 2](your-repo-link)
+### 📱 [PickyEats](your-repo-link)
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
