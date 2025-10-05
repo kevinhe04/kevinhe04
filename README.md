@@ -36,7 +36,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 [Stacy](your-repo-link)
+### [Stacy](your-repo-link)
 
 ![Project 1](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,7 +53,7 @@ A brief description of what this project does and why you're proud of it. Highli
 </td>
 <td width="50%" valign="top">
 
-### 📱 [PickyEats](https://github.com/kevinhe04/picky-eats)
+### [PickyEats](https://github.com/kevinhe04/picky-eats)
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -73,7 +73,7 @@ A brief description of what this project does and why you're proud of it. Highli
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 [Project Name 3](your-repo-link)
+### [Project Name 3](your-repo-link)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
