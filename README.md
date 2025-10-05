@@ -1,14 +1,11 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20He&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hi+there!" alt="Typing SVG" />
 <br>
-
 </div>
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 **Languages**
@@ -34,6 +31,90 @@
 
 <br>
 
+## 🏆 Check Out My Proudest Projects!
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [Project Name 1](your-repo-link)
+
+![Project 1](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
+
+**✨ Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 [Project Name 2](your-repo-link)
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
+
+**✨ Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Project Name 3](your-repo-link)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
+
+**✨ Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 [Project Name 4](your-repo-link)
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
+
+**✨ Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -42,3 +123,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kvin.he1)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kvin.he)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kvin.he)
+
+<br>
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+</div>
