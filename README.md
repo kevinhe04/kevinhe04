@@ -53,7 +53,7 @@ A brief description of what this project does and why you're proud of it. Highli
 </td>
 <td width="50%" valign="top">
 
-### 📱 [PickyEats](your-repo-link)
+### 📱 [PickyEats](https://github.com/kevinhe04/picky-eats)
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
