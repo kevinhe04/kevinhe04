@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20He&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
 
 **Languages**
