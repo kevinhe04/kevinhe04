@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+impactful+software;7M%2B+views+%7C+20K%2B+followers;Inspiring+through+code+%26+content" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+there+!" alt="Typing SVG" />
 
 <br>
 
@@ -32,12 +32,11 @@ const kevin = {
 
 ## 🚀 What I'm Focused On
 
-```
 💻  Building impactful software solutions
 🎬  Creating content that inspires and educates  
 🌍  Using technology to make a positive difference
 📚  Continuous learning and growth
-```
+
 
 <br>
 
