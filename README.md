@@ -119,8 +119,6 @@ A brief description of what this project does and why you're proud of it. Highli
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kvin.he)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kvin.he)
 
-<br>
-
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 </div>
