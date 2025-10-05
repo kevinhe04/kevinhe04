@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Header Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kevin%20He&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
 ### 🎓 Software Engineering @ McGill University • 🎬 Content Creator
 
 <br>
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+impactful+software;7M%2B+views+%7C+20K%2B+followers;Inspiring+through+code+%26+content" alt="Typing SVG" />
 
 <br>
@@ -16,7 +14,6 @@
 
 ## 👋 About Me
 
-```typescript
 const kevin = {
   location: "Montreal, QC",
   education: "McGill University - Software Engineering Co-op",
@@ -24,7 +21,6 @@ const kevin = {
   mission: "Build impactful solutions while inspiring others",
   reach: { views: "7M+", followers: "20K+" }
 };
-```
 
 **Developer** • I create robust, scalable applications that solve real-world problems
 
@@ -121,4 +117,3 @@ const kevin = {
 ![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
 </div>
-```
