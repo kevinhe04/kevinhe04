@@ -9,19 +9,8 @@
 
 ## 👋 About Me
 
-const kevin = {
-  location: "Montreal, QC",
-  education: "McGill University - Software Engineering Co-op",
-  passion: ["Software Development", "Content Creation", "Teaching"],
-  mission: "Build impactful solutions while inspiring others",
-  reach: { views: "7M+", followers: "20K+" }
-};
-
-**Developer** • I create robust, scalable applications that solve real-world problems
-
-**Creator** • I inspire and entertain audiences across multiple platforms  
-
-**Believer** • If I can inspire people in the process, I've accomplished everything
+**Developer** • I like creating cool things that can leave an impact on the world
+**Creator** • I inspire and entertain audiences across multiple platforms 
 
 <br>
 
