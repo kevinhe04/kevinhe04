@@ -58,12 +58,7 @@ A brief description of what this project does and why you're proud of it. Highli
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
-
-**✨ Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+10,000+ downloads. 5M+ views.
 
 [![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
 
