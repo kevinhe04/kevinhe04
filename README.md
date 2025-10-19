@@ -41,14 +41,11 @@
 ![Project 1](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
+Real time voice safety companion that logs incidents, tracks live location, and automatically calls 911.
 
-**✨ Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
+- Won Hack The North Best Voice Agent (VAPI Sponsor Challenge)
 
-[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([your-repo-link](https://devpost.com/software/stacy-g7zptj))
 
 </td>
 <td width="50%" valign="top">
