@@ -1,7 +1,6 @@
 <div align="center">
 </div>
 
-## Tech Stack
 <div align="center">
 
 **Languages**
