@@ -36,7 +36,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Stacy](your-repo-link)
+### [Stacy](https://devpost.com/software/stacy-g7zptj)
 
 ![Project 1](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,8 +44,6 @@
 Real time voice safety companion that logs incidents, tracks live location, and automatically calls 911.
 
 - Won Hack The North Best Voice Agent (VAPI Sponsor Challenge)
-
-[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)]([your-repo-link](https://devpost.com/software/stacy-g7zptj))
 
 </td>
 <td width="50%" valign="top">
