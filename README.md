@@ -64,36 +64,14 @@ Recommends restaurants based on your taste, such as type of cuisine/dish, locati
 <tr>
 <td width="50%" valign="top">
 
-### [Project Name 3](your-repo-link)
+### [Cheri](https://www.cherimtl.com/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
+E-Commerce Website for my friend's clothing brand
 
-**✨ Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 [Project Name 4](your-repo-link)
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-A brief description of what this project does and why you're proud of it. Highlight the impact or unique features.
-
-**✨ Key Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-
-[![View Project](https://img.shields.io/badge/View%20Project-FF69B4?style=for-the-badge&logo=github&logoColor=white)](your-repo-link)
+- Made 10k in sales
 
 </td>
 </tr>
