@@ -1,105 +1,96 @@
 <div align="center">
-</div>
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frameworks & Tools**
-
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&lines=Languages" alt="Languages" />
 
 <br>
 
-## My Proudest Projects
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<div align="center">
+</td>
+</table>
 
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=My+Proudest+Projects+:D" alt="My Proudest Projects" />
+<br>
+
+</div>
+
+<!-- Project Cards with Clean Layout -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Stacy](https://devpost.com/software/stacy-g7zptj)
+### 🛡️ [Stacy](https://devpost.com/software/stacy-g7zptj)
+> Real-time voice safety companion with automatic 911 calling
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=typescript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+```
+🏆  Hack The North Winner - Best Voice Agent
+```
 
-Real time voice safety companion that logs incidents, tracks live location, and automatically calls 911.
-
-- Won Hack The North Best Voice Agent (VAPI Sponsor Challenge)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### [PickyEats](https://github.com/kevinhe04/picky-eats-mobile)
+### 🍕 [PickyEats](https://github.com/kevinhe04/picky-eats-mobile)
+> Smart restaurant recommendations based on your taste
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+```
+📱  10,000+ Downloads
+👁️  5M+ Views
+```
 
-Recommends restaurants based on your taste, such as type of cuisine/dish, location, dietary restrictions, etc.
-
-- 10,000+ downloads
-- 5M+ views
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### [Cheri](https://www.cherimtl.com/)
+### 👔 [Cheri](https://www.cherimtl.com/)
+> Full-stack e-commerce for Montreal clothing brand
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+```
+💰  $10K+ Revenue
+🚀  Live in Production
+```
 
-E-Commerce Website for my friend's clothing brand
-
-- Made 10k in sales
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-  <td width="50%" valign="top">
-    
-  ### [ZenOS](https://devpost.com/software/zenos)
-  ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=typescript&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🧘 [ZenOS](https://devpost.com/software/zenos)
+> Productivity environment designed for students
 
-  Productivity Environment Tool For Students
+```
+🏆  BagelHacks Highest Rated
+🎤  JHKCBA Pitch Winner
+```
 
-  - Won BagelHacks Highest Rating Project
-  - Won JHKCBA's 2025 Pitch Competition
-  
-    
-  </td>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
 </tr>
 </table>
 
-</div>
-
-<br>
+<br><br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvinhe/)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvinhe/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kvin.he1)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kvin.he)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kvin.he)
-
+<br><br>
 </div>
