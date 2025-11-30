@@ -36,7 +36,7 @@
 
 ### [Stacy](https://devpost.com/software/stacy-g7zptj)
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=typescript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 Real time voice safety companion that logs incidents, tracks live location, and automatically calls 911.
