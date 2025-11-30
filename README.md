@@ -36,7 +36,7 @@
 
 ### [Stacy](https://devpost.com/software/stacy-g7zptj)
 
-![Project 1](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Project 1](https://github.com/apollo-ullah/HackTheNorth2025)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 Real time voice safety companion that logs incidents, tracks live location, and automatically calls 911.
