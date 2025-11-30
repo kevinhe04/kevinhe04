@@ -76,6 +76,7 @@ E-Commerce Website for my friend's clothing brand
 
 <tr>
   <td width="50%" valign="top">
+    
   ### [ZenOS](https://devpost.com/software/zenos)
   ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=typescript&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
