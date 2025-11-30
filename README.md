@@ -46,7 +46,7 @@ Real time voice safety companion that logs incidents, tracks live location, and 
 </td>
 <td width="50%" valign="top">
 
-### [PickyEats](https://github.com/kevinhe04/picky-eats)
+### [PickyEats](https://github.com/kevinhe04/picky-eats-mobile)
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
