@@ -1,96 +1,54 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
+  <img alt="Kevin He" src="assets/name-light.svg" width="187">
+</picture>
 
-<table>
-<tr>
-<td align="center" width="50%">
+McGill Software Engineering — I find robots really cool!
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&lines=Languages" alt="Languages" />
+<sub>Swift · TypeScript · Python · C++ · Next.js · PostgreSQL</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img alt="" src="assets/rule-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+  <img alt="My Proudest Projects." src="assets/projects-light.svg" width="211">
+</picture>
+
+**[Clove](https://devpost.com/software/clove-ga6v5p)** — TreeHacks, Stanford  
+An AR healthcare assistant that helps elderly adults recall memories, recognize loved ones and stay safe.  
+<sub>Swift · SwiftUI · ARKit · OpenAI · Zoom Video SDK &nbsp;·&nbsp; Feb 2026</sub>
+
+**[Stacy](https://devpost.com/software/stacy-g7zptj)** — Hack The North winner, Best Voice Agent  
+A real-time voice safety companion that calls 911 for you.  
+<sub>Swift · TypeScript &nbsp;·&nbsp; Sep 2025</sub>
+
+**[ZenOS](https://www.youtube.com/watch?v=3vmHrCJ-nJs)** — BagelHacks winner, highest rated  
+A productivity environment built for the way students actually work.  
+<sub>Swift · TypeScript &nbsp;·&nbsp; Mar 2025</sub>
+
+**[PickyEats](https://picky-eats.vercel.app/)** — 10k+ downloads, 5M+ views  
+Restaurant recommendations that learn what you actually like.  
+<sub>React Native · Expo &nbsp;·&nbsp; 2024 — 2025</sub>
+
+**[Chéri](https://www.cherimtl.com/)** — $10k+ revenue, live in production  
+A full-stack storefront for a Montreal clothing brand.  
+<sub>Python · PostgreSQL &nbsp;·&nbsp; Sep 2024</sub>
 
 <br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img alt="" src="assets/rule-light.svg" width="100%">
+</picture>
 
-</td>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/touch-dark.svg">
+  <img alt="Get in touch." src="assets/touch-light.svg" width="126">
+</picture>
 
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=28&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=My+Proudest+Projects+:D" alt="My Proudest Projects" />
-<br>
-
-</div>
-
-<!-- Project Cards with Clean Layout -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [Stacy](https://devpost.com/software/stacy-g7zptj)
-> Real-time voice safety companion with automatic 911 calling
-
-```
-🏆  Hack The North Winner - Best Voice Agent
-```
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 [PickyEats](https://github.com/kevinhe04/picky-eats-mobile)
-> Smart restaurant recommendations based on your taste
-
-```
-📱  10,000+ Downloads
-👁️  5M+ Views
-```
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👔 [Cheri](https://www.cherimtl.com/)
-> Full-stack e-commerce for Montreal clothing brand
-
-```
-💰  $10K+ Revenue
-🚀  Live in Production
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧘 [ZenOS](https://devpost.com/software/zenos)
-> Productivity environment designed for students
-
-```
-🏆  BagelHacks Highest Rated
-🎤  JHKCBA Pitch Winner
-```
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvinhe/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kvin.he1)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kvin.he)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kvin.he)
-<br><br>
-</div>
+[Website](https://kevinhe.live) · [LinkedIn](https://www.linkedin.com/in/kvinhe/) · [Email](mailto:kvn.04he@gmail.com) · [Résumé](https://drive.google.com/file/d/1JWfl8-4oR-525v0Jn7hS2tYlR8kE_zR9/view) · [YouTube](https://www.youtube.com/@kvinhe) · [Instagram](https://www.instagram.com/kvin.he/)
