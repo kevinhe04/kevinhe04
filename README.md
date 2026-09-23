@@ -15,6 +15,22 @@ McGill Software Engineering — I find robots really cool!
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/building-dark.svg">
+  <img alt="What I’m currently building." src="assets/building-light.svg" width="276">
+</picture>
+
+**[Touchscreen Arm](https://github.com/kevinhe04/robotic-arm)** — in progress  
+A 4-DOF desktop robot arm that reads a tablet screen, decides what to press, and presses it.  
+<sub>C++ · Python &nbsp;·&nbsp; Sep 2026 — present</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rule-dark.svg">
+  <img alt="" src="assets/rule-light.svg" width="100%">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
   <img alt="My Proudest Projects." src="assets/projects-light.svg" width="211">
 </picture>
