@@ -5,7 +5,7 @@
 
 McGill Software Engineering — I find robots really cool!
 
-<sub>Swift · TypeScript · Python · C/C++ · Next.js</sub>
+<sub>Swift · TypeScript · Python · C/C++</sub>
 
 <br>
 
